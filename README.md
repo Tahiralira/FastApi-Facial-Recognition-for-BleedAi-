@@ -21,9 +21,9 @@ Cachetools: A collection of caching utilities for Python, used to optimize perfo
 Installation
 Clone the repository:
 
-bash
+'''bash
 git clone https://github.com/Tahiralira/FastApi-Facial-Recognition-for-BleedAi-.git
-
+'''
 Install dependencies:
 
 bash
