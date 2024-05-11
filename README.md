@@ -22,7 +22,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/your_username/faceops.git
+git clone https://github.com/Tahiralira/FastApi-Facial-Recognition-for-BleedAi-.git
 
 Install dependencies:
 
